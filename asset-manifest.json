@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rini-monsters-rolodex/static/css/main.a6ed09f6.chunk.css",
+    "main.js": "/rini-monsters-rolodex/static/js/main.842ce525.chunk.js",
+    "main.js.map": "/rini-monsters-rolodex/static/js/main.842ce525.chunk.js.map",
+    "runtime-main.js": "/rini-monsters-rolodex/static/js/runtime-main.03115c47.js",
+    "runtime-main.js.map": "/rini-monsters-rolodex/static/js/runtime-main.03115c47.js.map",
+    "static/js/2.49f7f649.chunk.js": "/rini-monsters-rolodex/static/js/2.49f7f649.chunk.js",
+    "static/js/2.49f7f649.chunk.js.map": "/rini-monsters-rolodex/static/js/2.49f7f649.chunk.js.map",
+    "static/js/3.8e5a4aaa.chunk.js": "/rini-monsters-rolodex/static/js/3.8e5a4aaa.chunk.js",
+    "static/js/3.8e5a4aaa.chunk.js.map": "/rini-monsters-rolodex/static/js/3.8e5a4aaa.chunk.js.map",
+    "index.html": "/rini-monsters-rolodex/index.html",
+    "static/css/main.a6ed09f6.chunk.css.map": "/rini-monsters-rolodex/static/css/main.a6ed09f6.chunk.css.map",
+    "static/js/2.49f7f649.chunk.js.LICENSE.txt": "/rini-monsters-rolodex/static/js/2.49f7f649.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03115c47.js",
+    "static/js/2.49f7f649.chunk.js",
+    "static/css/main.a6ed09f6.chunk.css",
+    "static/js/main.842ce525.chunk.js"
+  ]
+}
